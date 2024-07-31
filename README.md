@@ -16,10 +16,10 @@ O projeto utiliza três fontes de iluminação para criar uma cena bem iluminada
  - Descrição: Ilumina todos os objetos de maneira uniforme, garantindo que todas as áreas da cena sejam visíveis, mesmo que não estejam diretamente iluminadas por outras fontes de luz.
 
 - **Luz Direcional**:
-  Descrição: Simula a luz proveniente de uma fonte distante, como o sol. Projeta luz paralela em toda a cena, criando sombras definidas e iluminando objetos de maneira direcional.
+ - Descrição: Simula a luz proveniente de uma fonte distante, como o sol. Projeta luz paralela em toda a cena, criando sombras definidas e iluminando objetos de maneira direcional.
 
 - **Luz Pontual**:
-  Descrição: Emite luz em todas as direções a partir de um ponto específico, criando uma iluminação localizada e gerando sombras suaves em objetos próximos.
+ - Descrição: Emite luz em todas as direções a partir de um ponto específico, criando uma iluminação localizada e gerando sombras suaves em objetos próximos.
 
 Tecnologias Utilizadas:
 
